@@ -16,4 +16,4 @@ Backend: []
 Database: []
 
 🔄 Project Flow
-Explore the project workflow and design here.
+Explore the project workflow and design : https://www.canva.com/design/DAGWEulGiiE/XKLP3lNNG7hPSs17mvrAxQ/view?utm_content=DAGWEulGiiE&utm_campaign=designshare&utm_medium=link&utm_source=editor
